@@ -28,7 +28,7 @@ const About = () => {
     Some of my hobbies include public speaking, Coding, and Building WebPages.
 </p>
 
-          <a href="img\ramesh_nethi_resume.pdf" download className="resume-btn">
+          <a href="img\rameshnethi_ReactJS_resume.pdf" download className="resume-btn">
             <button>
               Download Resume <FaFileDownload></FaFileDownload>
             </button>
